@@ -24,4 +24,5 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'net-http-persistent',    '~> 2.9'
   spec.add_dependency 'fastimage',              '~> 1.6'
   spec.add_dependency 'video_info',             '~> 2.3'
+  spec.add_dependency 'rchardet',               '~> 1.6.0'
 end
